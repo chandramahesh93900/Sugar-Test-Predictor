@@ -48,11 +48,10 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
 3.Install dependencies:
-```bash
 pip install -r requirements.txt
 
 4.Run the app locally:
-```bash
+
 python app.py
 
 5.Open your browser at http://127.0.0.1:5000 to use the app.
